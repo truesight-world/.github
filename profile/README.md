@@ -1,12 +1,50 @@
-## Hi there 👋
+# 🌍 Truesight.world
 
-<!--
+[Build your world now!](https://truesight.world)
 
-**Here are some ideas to get you started:**
+**Tools and services for worldbuilders, storytellers, and creators.**  
+Truesight.world develops structured, intelligent systems that help creators build, organize, and maintain rich fictional worlds.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 📦 What This Organization Contains
+
+This GitHub organization is used exclusively for:
+
+- **Release announcements**  
+- **Changelogs**  
+- **Issue tracking**  
+- **Public-facing documentation stubs**
+
+No source code or assets are published here.  
+All repositories exist solely to communicate updates and collect feedback.
+
+---
+
+## 🧭 About Truesight.world
+
+Truesight.world builds tools that allows creators to:
+
+- Define and manage world structures  
+- Organize characters, regions, factions, and items.  
+- Use Scribe to expand and refine worldbuilding.
+- Keep their worlds consistent, searchable, and easy to maintain.
+
+Our mission is to make worldbuilding powerful, intuitive, and enjoyable.
+
+---
+
+## 🔔 Staying Updated
+
+Follow this organization to:
+
+- Track new releases  
+- Read changelogs  
+- Report issues  
+- See what’s coming next  
+
+---
+
+## 🌐 Learn More
+
+Visit **Truesight.world** for product information, demos, and upcoming features.
