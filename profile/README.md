@@ -30,7 +30,7 @@ Truesight.world builds tools that allows creators to:
 - Use Scribe to expand and refine worldbuilding.
 - Keep their worlds consistent, searchable, and easy to maintain.
 
-Our mission is to make worldbuilding powerful, intuitive, and enjoyable.
+My goal is to make worldbuilding accessible, intuitive, and enjoyable.
 
 ---
 
@@ -41,10 +41,4 @@ Follow this organization to:
 - Track new releases  
 - Read changelogs  
 - Report issues  
-- See what’s coming next  
-
----
-
-## 🌐 Learn More
-
-Visit **Truesight.world** for product information, demos, and upcoming features.
+- See what’s coming next 
